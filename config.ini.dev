@@ -1,0 +1,6 @@
+# TODOLIST
+[database]
+dbhost="corts.cesnuria.com";
+dbuser="corts_corts";
+dbpass="Escolanuria12345.";
+dbname="corts_todolist";
